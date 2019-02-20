@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  animal = cat;
+  let animal = cat;
   return animal
 }
 
